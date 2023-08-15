@@ -1,4 +1,4 @@
-How to upload Python files to Rippleet using the webhook function
+How to upload Python files to Replit using the webhook function
 -----------------
 which was discussed:
 - Job definition
